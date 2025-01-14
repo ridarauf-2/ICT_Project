@@ -1,0 +1,6 @@
+﻿  ICTproject.cpp
+C:\Users\HOME\source\repos\ProjectICT\ProjectICT\ICTproject.cpp(6,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HOME\source\repos\ProjectICT\ProjectICT\ICTproject.cpp(7,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HOME\source\repos\ProjectICT\ProjectICT\ICTproject.cpp(8,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HOME\source\repos\ProjectICT\ProjectICT\ICTproject.cpp(9,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ProjectICT.vcxproj -> C:\Users\HOME\source\repos\ProjectICT\x64\Debug\ProjectICT.exe
